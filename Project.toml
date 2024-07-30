@@ -3,7 +3,7 @@ uuid = "9d6c422e-8155-11e9-28dd-5d3b5357240e"
 version = "0.1.1"
 
 [deps]
-
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 GLPK = "60bf3e95-4087-53dc-ae20-288a0d20c6a6"
